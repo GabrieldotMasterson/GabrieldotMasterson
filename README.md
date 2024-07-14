@@ -28,14 +28,6 @@
 
 ###
 
-<div align="left">
-  
-  [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)]([https://www.youtube.com/channel/your_channel_id](https://www.youtube.com/@gabrielmasterson6396))
-  
-</div>
-
-###
-
 <br clear="both">
 
 ###
