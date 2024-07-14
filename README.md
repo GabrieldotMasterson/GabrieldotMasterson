@@ -10,8 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/XOsX.gif"  />
-
 ###
 
 <div align="left">
