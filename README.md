@@ -1,5 +1,4 @@
 
-<h2 align="left">Programando com um sorriso no rosto e um emoji no código. 😄👩‍💻 👋</h2>
 
 ###
 
