@@ -40,7 +40,7 @@
 
 ### 📫 How to Reach Me
 
-- 📧 Email: gabriel.masterson2602@gmail.com  
+- 📧 Email: gabrielmastersondev@gmail.com  
 - 🔗 LinkedIn: [Gabriel Masterson](https://www.linkedin.com/in/gabrielmasterson/)  
 - 📝 Maybe a tech blog or Dev.to soon...
 
