@@ -1,35 +1,46 @@
+<h1 align="center">Hey there! I'm Gabriel Masterson 👋</h1>
 
+<p align="center">
+  <i>Computer Science student, low-level programming enthusiast, and always curious about how things work.</i>
+</p>
 
-###
+---
 
-<h1 align="center">Hi 👋, I'm Gabriel Masterson </h1>
+### 🧠 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieldotmasterson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieldotmasterson&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+- 🎓 Currently studying Computer Science (or a related field)
+- ⚙️ Passionate about competitive programming, game development, and software engineering
+- 💬 I enjoy sharing what I learn, especially by breaking down complex ideas
+- 📚 Currently exploring data structures, algorithms, and software design principles
 
-###
+---
 
-###
+### 🛠️ Tools & Technologies
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img alt="Lua" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+![C](https://img.shields.io/badge/-C-333?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-333?style=for-the-badge&logo=lua&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)
 
-###
+---
 
-<br clear="both">
+### 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieldotmasterson&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldotmasterson&layout=compact&theme=tokyonight" width="400" height="200"/>
+</p>
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: gabriel.masterson2602@gmail.com  
+- 🔗 LinkedIn: [Gabriel Masterson](https://www.linkedin.com/in/gabrielmasterson/)  
+- 📝 Maybe a tech blog or Dev.to soon...
+
