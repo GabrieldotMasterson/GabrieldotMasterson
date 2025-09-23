@@ -47,7 +47,7 @@
 <h2 align="center"> 📫 How to Reach Me </h2>
 
 <p align="center">
-  <a href="mailto:gabrielmastersondev@gmail.com">
+  <a href="gabriel.masterson2602@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/gabrielmasterson/">
