@@ -1,47 +1,66 @@
-<h1 align="center">Hey there! I'm Gabriel Masterson 👋</h1>
+<h1 align="center">
+  ✨ Hey there! I'm <span style="color:#00c3ff;">Gabriel Masterson</span> 👋
+</h1>
 
 <p align="center">
-  <i>Computer Science student, low-level programming enthusiast, and always curious about how things work.</i>
+  <i>💻 Computer Science student • ⚙️ Low-level programming enthusiast • 🌍 Curious about how things work</i>
+</p>
+
+<hr style="border: 1px solid #00c3ff; width: 80%;">
+
+<h2 align="center"> About Me </h2>
+
+<p align="left">
+  ⚡ Passionate about <b>competitive programming, game development, and software engineering</b><br>
+  💬 I love sharing knowledge by breaking down <b>complex ideas</b><br>
+  📚 Exploring <b>data structures, algorithms, and ML</b>
+    
+</p>
+
+<h2 align="center" > Tools & Technologies </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-333?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Lua-333?style=for-the-badge&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+<h2 align="center"> Stats </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieldotmasterson&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldotmasterson&theme=tokyonight&hide_border=true" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldotmasterson&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="420" />
+</p>
+
+<hr style="border: 1px solid #ffcc00; width: 80%;">
+
+<h2 align="center"> 📫 How to Reach Me </h2>
+
+<p align="center">
+  <a href="mailto:gabrielmastersondev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielmasterson/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@gabriel.masterson2602">
+    <img src="https://img.shields.io/badge/Medium-333?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 🎓 Currently studying Computer Science (or a related field)
-- ⚙️ Passionate about competitive programming, game development, and software engineering
-- 💬 I enjoy sharing what I learn, especially by breaking down complex ideas
-- 📚 Currently exploring data structures, algorithms, and software design principles
-
----
-
-### 🛠️ Tools & Technologies
-
-![C](https://img.shields.io/badge/-C-333?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-333?style=for-the-badge&logo=css&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=javascript&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-333?style=for-the-badge&logo=lua&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieldotmasterson&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldotmasterson&layout=compact&theme=tokyonight" width="400" height="200"/>
+  <i>⭐ If you like my work, consider giving a star to my repositories!</i>
 </p>
-
----
-
-### 📫 How to Reach Me
-
-- 📧 Email: gabrielmastersondev@gmail.com  
-- 🔗 LinkedIn: [Gabriel Masterson](https://www.linkedin.com/in/gabrielmasterson/)  
-- 📝 Maybe a tech blog or Dev.to soon...
-
