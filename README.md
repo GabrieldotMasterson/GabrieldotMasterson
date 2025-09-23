@@ -43,7 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldotmasterson&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="420" />
 </p>
 
-<hr style="border: 1px solid #ffcc00; width: 80%;">
 
 <h2 align="center"> 📫 How to Reach Me </h2>
 
@@ -59,7 +58,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <i>⭐ If you like my work, consider giving a star to my repositories!</i>
