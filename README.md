@@ -1,9 +1,9 @@
 <h1 align="center">
-  ✨ Hey there! I'm <span style="color:#00c3ff;">Gabriel Masterson</span> 👋
+  I'm <span style="color:#00c3ff;">Gabriel Masterson</span> 
 </h1>
 
 <p align="center">
-  <i>💻 Computer Science student • ⚙️ Low-level programming enthusiast • 🌍 Curious about how things work</i>
+  <i>💻 Aspiring Computer Science • ⚙️ Low-level programming enthusiast • 🌍 Curious about how things work</i>
 </p>
 
 <hr style="border: 1px solid #00c3ff; width: 80%;">
