@@ -51,8 +51,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white">
   </p>
 </th>
