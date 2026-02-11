@@ -10,7 +10,7 @@
 
 <p align="center">
   Técnico em Desenvolvimento de Sistemas, com experiência prática em  
-  <b>desenvolvimento web, APIs, bancos de dados e projetos sociais</b>.
+  <b>desenvolvimento web, APIs e bancos de dados</b>.
 </p>
 
 <hr style="border: 1px solid #00c3ff; width: 80%;">
