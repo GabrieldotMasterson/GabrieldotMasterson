@@ -1,10 +1,10 @@
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#00c3ff;">Gabriel Masterson</span>
+  Hi, I'm <span style="color:#00c3ff;">Gabriel Masterson</span>
 </h1>
 
 <p align="center">
   <i>
-    💻 Full-Stack Developer • ⚙️ Backend & Systems Enthusiast • 🎮 GameDev Curious
+    Full-Stack Developer • Backend & Systems Enthusiast • GameDev Curious
   </i>
 </p>
 
@@ -15,18 +15,18 @@
 
 <hr style="border: 1px solid #00c3ff; width: 80%;">
 
-<h2 align="center">🧠 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="left">
-  ⚡ Desenvolvedor <b>Full Stack</b> <br>
-  🧩 Experiência com <b>APIs REST, autenticação, bancos de dados e testes</b><br>
-  🎮 Interesse em <b>Game Development</b> e programação de baixo nível<br>
-  🚀 Sempre buscando evoluir tecnicamente e construir soluções reais
+  Desenvolvedor <b>Full Stack</b> <br>
+  Experiência com <b>APIs REST, autenticação, bancos de dados e testes</b><br>
+  Interesse em <b>Game Development</b> e programação de baixo nível<br>
+  Sempre buscando evoluir tecnicamente e construir soluções reais
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <table>
 <tr>
