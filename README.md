@@ -77,31 +77,11 @@ currently_learning: Always something new
 ### 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMasterson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00c3ff&icon_color=00c3ff&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMasterson&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c3ff&text_color=ffffff"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMasterson&theme=tokyonight&hide_border=true&background=0d1117&ring=00c3ff&fire=ff6b6b&currStreakLabel=00c3ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 </div>
 
 ---
 
-### 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielMasterson&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
-### 📈 &nbsp;Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielMasterson&theme=tokyo-night&bg_color=0d1117&color=00c3ff&line=00c3ff&point=ffffff&hide_border=true" />
-</div>
-
----
 
 <div align="center">
 
