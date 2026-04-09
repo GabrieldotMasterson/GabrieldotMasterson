@@ -72,13 +72,6 @@ currently_learning: Always something new
 
 </div>
 
----
-
-### 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMasterson&theme=tokyonight&hide_border=true&background=0d1117&ring=00c3ff&fire=ff6b6b&currStreakLabel=00c3ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
-</div>
 
 ---
 
