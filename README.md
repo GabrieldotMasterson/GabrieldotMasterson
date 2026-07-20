@@ -24,8 +24,8 @@
 name: Gabriel Masterson
 role: Full-Stack Developer
 focus:
+  - Data Analysis and Artificial Intelligence
   - REST APIs & Auth Systems
-  - Database Design & Optimization
   - Testing & Code Quality
 interests:
   - Game Development
